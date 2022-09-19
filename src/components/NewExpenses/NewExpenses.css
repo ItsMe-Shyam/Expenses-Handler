@@ -1,0 +1,35 @@
+.newExpense {
+    padding: 1rem 3rem;
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: rgb(218, 138, 200);
+    height: 200px;
+    width: 50rem;
+    max-width: 100%;
+    margin: 0 auto;
+    margin-top: 3rem;
+}
+
+.newExpense-action button {
+    border: none;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(173, 72, 150);
+    padding: 0.8rem 2.5rem;
+    width: 100%;
+    position: relative;
+    top: 2rem;
+    left: 2rem;
+
+}
+
+div input {
+    margin-top: 7px;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    
+       
+}

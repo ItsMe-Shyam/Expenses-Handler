@@ -1,0 +1,16 @@
+span {
+    color: white;
+    margin: 2rem;
+    position: relative;
+    top: 1rem;
+  }
+  
+  select {
+    display: flex;
+    margin-left: auto;
+    border-radius: 10px;
+    padding: 0.5rem 2rem;
+  }
+  select:hover {
+    cursor: pointer;
+  }
